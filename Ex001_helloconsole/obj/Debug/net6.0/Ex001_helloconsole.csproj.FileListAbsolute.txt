@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\bin\Debug\net6.0\Ex001_helloconsole.exe
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\bin\Debug\net6.0\Ex001_helloconsole.deps.json
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\bin\Debug\net6.0\Ex001_helloconsole.runtimeconfig.json
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\bin\Debug\net6.0\Ex001_helloconsole.dll
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\bin\Debug\net6.0\Ex001_helloconsole.pdb
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\obj\Debug\net6.0\Ex001_helloconsole.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\obj\Debug\net6.0\Ex001_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\obj\Debug\net6.0\Ex001_helloconsole.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\obj\Debug\net6.0\Ex001_helloconsole.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\obj\Debug\net6.0\Ex001_helloconsole.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\obj\Debug\net6.0\Ex001_helloconsole.dll
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\obj\Debug\net6.0\refint\Ex001_helloconsole.dll
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\obj\Debug\net6.0\Ex001_helloconsole.pdb
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\obj\Debug\net6.0\Ex001_helloconsole.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\First_urok\Ex001_helloconsole\obj\Debug\net6.0\ref\Ex001_helloconsole.dll
